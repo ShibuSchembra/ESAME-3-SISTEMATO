@@ -1,0 +1,86 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1 {
+    max-width: 600px;
+    background-color: white;
+    text-align: center;
+    font-family: 'Rosarivo', cursive;
+    
+}
+
+h2 {
+    max-width: 600px;
+    background-color: white;
+    text-align: center;
+    font-size:medium;
+    font-family: 'Rosarivo', cursive;
+}
+
+
+header {
+    max-width: 600px;
+    background-color: white;
+    text-align: right;
+}
+
+p {
+    font-family: 'Rosarivo', cursive; 
+}
+
+
+div.American {
+    max-width: 500px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    margin: auto;
+
+
+}
+
+div.English {
+    max-width: 500px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    margin: auto;
+
+
+}
+
+div.Colombian {
+    max-width: 500px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    margin: auto;
+
+
+}
+
+div.Mongolian {
+    max-width: 500px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    margin: auto;
+
+
+}
+
+main {
+    max-width: 600px;
+    background-color: white;
+    margin: auto;
+}
+
+main h2.altro-titolo {
+    color: black;
+}
